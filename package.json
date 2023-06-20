@@ -1,6 +1,6 @@
 {
   "name": "astro-kanagawa",
-  "displayName": "astro-kanagawa",
+  "displayName": "Astro Kanagawa",
   "description": "Astro Kanagawa Theme",
   "version": "0.0.1",
   "publisher": "panquequelol",
@@ -29,6 +29,11 @@
         "label": "Astro Kanagawa",
         "uiTheme": "vs-dark",
         "path": "./themes/astro-kanagawa.json"
+      },
+      {
+        "label": "Astro Kanagawa Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astro-kanagawa-soft.json"
       }
     ]
   }
