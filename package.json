@@ -19,6 +19,10 @@
     "astro",
     "theme"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panquequelol/astro-kanagawa.git"
+  },
   "contributes": {
     "themes": [
       {

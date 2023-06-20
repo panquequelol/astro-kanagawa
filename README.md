@@ -1,7 +1,5 @@
 # Astro Japan
 
-Minimalistic dark themes. 
+Minimalistic dark theme **heavily** inspired by Michael Andreuzza.
 
-**heavily** inspired by Michael Andreuzza.
-
-Took Astro by Mike as a base theme, then added Kanagawa and Shibuya theme's color palette.
+Took Astro by Mike as a base theme, then added Kanagawa's color palette.
