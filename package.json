@@ -1,8 +1,9 @@
 {
   "name": "astro-kanagawa",
   "displayName": "Astro Kanagawa",
-  "description": "Astro Kanagawa Theme",
-  "version": "0.0.1",
+  "description": "Minimalistic Dark Theme.",
+  "version": "0.0.3",
+  "icon": "images/jaxa.jpg",
   "publisher": "panquequelol",
   "engines": {
     "vscode": "^1.79.0"
