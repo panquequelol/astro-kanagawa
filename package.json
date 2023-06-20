@@ -1,0 +1,31 @@
+{
+  "name": "astro-kanagawa",
+  "displayName": "astro-kanagawa",
+  "description": "Astro Kanagawa Theme",
+  "version": "0.0.1",
+  "publisher": "panquequelol",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "dark",
+    "kanagawa",
+    "tokyo",
+    "shibuya",
+    "japan",
+    "astro",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Astro Kanagawa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astro-kanagawa.json"
+      }
+    ]
+  }
+}
