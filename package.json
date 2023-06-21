@@ -2,7 +2,7 @@
   "name": "astro-kanagawa",
   "displayName": "Astro Kanagawa",
   "description": "Minimalistic Dark Theme.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "icon": "images/jaxa.jpg",
   "publisher": "panquequelol",
   "engines": {
@@ -18,7 +18,7 @@
     "shibuya",
     "japan",
     "astro",
-    "theme"
+    "monokai"
   ],
   "repository": {
     "type": "git",
@@ -27,14 +27,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Astro Kanagawa",
+        "label": "Astro Kanagawa Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/astro-kanagawa.json"
       },
       {
-        "label": "Astro Kanagawa Soft",
+        "label": "Astro Kanagawa",
         "uiTheme": "vs-dark",
         "path": "./themes/astro-kanagawa-soft.json"
+      },
+      {
+        "label": "Astro Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/astro-monokai.json"
       }
     ]
   }
